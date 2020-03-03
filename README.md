@@ -1,3 +1,5 @@
-# cdsw-training
+# CDSW Training for Dell
 
-Example Python and R code for [Cloudera Data Science Workbench Training](https://www.cloudera.com/about/training/courses/cloudera-data-science-workbench-training.html)
+* Introduction to CDH platform
+* Introduction to Spark
+* Example Python and R code for [Cloudera Data Science Workbench Training](https://www.cloudera.com/about/training/courses/cloudera-data-science-workbench-training.html)

@@ -97,7 +97,7 @@ print("Hello world!")
 # The file `flights.csv` is now stored in the subdirectory
 # `flights` in your home directory in HDFS.
 
-
+# [See the Hadoop Cheatsheet](Hadoop-Cheatsheet.md) for more commands
 # ## Using Apache Spark 2 with PySpark
 
 # CDSW provides a virtual gateway to the cluster, which
